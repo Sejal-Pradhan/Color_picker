@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Color_picker/static/css/main.db798329.css",
+    "main.js": "/Color_picker/static/js/main.18bf1fc5.js",
+    "static/js/787.618b5e11.chunk.js": "/Color_picker/static/js/787.618b5e11.chunk.js",
+    "index.html": "/Color_picker/index.html",
+    "main.db798329.css.map": "/Color_picker/static/css/main.db798329.css.map",
+    "main.18bf1fc5.js.map": "/Color_picker/static/js/main.18bf1fc5.js.map",
+    "787.618b5e11.chunk.js.map": "/Color_picker/static/js/787.618b5e11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.18bf1fc5.js"
+  ]
+}
